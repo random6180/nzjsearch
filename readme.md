@@ -1,5 +1,8 @@
 搜索引擎
 
+本项目直接借助浏览器客户端在url中输入用户查询词，并把搜索结果返回，如下所示：
+![搜索结果](https://github.com/random6180/nzjsearch/blob/master/%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C.jpg)
+
 第一部分：搜索
 
 一.创建英文、中文词典， CreateEndict， CreateCnDict文件
